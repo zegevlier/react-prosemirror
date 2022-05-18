@@ -1,5 +1,5 @@
 {
-  "name": "@aeaton/react-prosemirror-modules",
+  "name": "@zegevlier/react-prosemirror-modules",
   "private": true,
   "workspaces": [
     "packages/*",
@@ -7,7 +7,7 @@
   ],
   "author": "Alf Eaton <eaton.alf@gmail.com>",
   "license": "MIT",
-  "repository": "hubgit/react-prosemirror",
+  "repository": "zegevlier/react-prosemirror",
   "scripts": {
     "bootstrap": "lerna bootstrap",
     "build": "tsc --build packages",
